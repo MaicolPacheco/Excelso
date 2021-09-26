@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/maico/Documents/Cursos/EXCELSO-TADHACK/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2898148148148148" />
+        <entry key="..\:/Users/maico/Documents/Cursos/EXCELSO-TADHACK/app/src/main/res/drawable/butto_r_border.xml" value="0.1" />
+        <entry key="..\:/Users/maico/Documents/Cursos/EXCELSO-TADHACK/app/src/main/res/drawable/button_r.xml" value="0.21736111111111112" />
+        <entry key="..\:/Users/maico/Documents/Cursos/EXCELSO-TADHACK/app/src/main/res/drawable/button_social.xml" value="0.1" />
+        <entry key="..\:/Users/maico/Documents/Cursos/EXCELSO-TADHACK/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2898148148148148" />
+        <entry key="..\:/Users/maico/Documents/Cursos/EXCELSO-TADHACK/app/src/main/res/layout/activity_main.xml" value="0.14959202175883954" />
+        <entry key="..\:/Users/maico/Documents/Cursos/EXCELSO-TADHACK/app/src/main/res/layout/activity_main2.xml" value="0.1074983410749834" />
+        <entry key="..\:/Users/maico/Documents/Cursos/EXCELSO-TADHACK/app/src/main/res/layout/activity_menu.xml" value="0.1074983410749834" />
+        <entry key="..\:/Users/maico/Documents/Cursos/EXCELSO-TADHACK/app/src/main/res/layout/activity_menu2.xml" value="0.12060810810810811" />
+        <entry key="..\:/Users/maico/Documents/Cursos/EXCELSO-TADHACK/app/src/main/res/layout/activity_menu_excelso.xml" value="0.14105191256830601" />
+        <entry key="..\:/Users/maico/Documents/Cursos/EXCELSO-TADHACK/app/src/main/res/layout/activity_registro.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
